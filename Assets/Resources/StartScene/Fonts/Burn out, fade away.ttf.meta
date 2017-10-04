@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 680461649a0d0a34cad5b0ba6592b92d
+timeCreated: 1482595738
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Burn out, fade away
+  fontNames:
+  - Burn out, fade away
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
